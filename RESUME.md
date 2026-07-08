@@ -1,7 +1,7 @@
 # Resume
 
 **University of Hawaiʻi — Mānoa · Honolulu, HI**  
-[github.com/enorban-prog](https://github.com/enorban-prog) · youremail@hawaii.edu
+[github.com/enorban-prog](https://github.com/enorban-prog) · enorban@hawaii.edu
 
 ---
 
