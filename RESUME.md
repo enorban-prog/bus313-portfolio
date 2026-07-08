@@ -5,54 +5,81 @@
 
 ---
 
-## Summary
-
-Junior Business Administration student (MIS concentration) with experience in data analysis, project coordination, and digital marketing. Seeking a business analyst or product management internship for Summer 2026.
-
----
-
 ## Education
 
-**B.B.A., Business Administration — Management Information Systems**  
-University of Hawaiʻi at Mānoa, Shidler College of Business | Expected May 2027  
-GPA: 3.6 / 4.0 · Dean's List (4 semesters)  
-Minor: Entrepreneurship
+University of Hawai’i at Manoā
+Bachelor of Business Administration, Management Information Systems (MIS)
+GPA: 3.34
 
 ---
 
-## Experience
+## Professional Experience
 
-**Marketing & Operations Intern** | Aloha Tech Solutions, Honolulu, HI | May 2025 – Aug 2025
-- Designed three email-campaign sequences in Mailchimp, increasing open rates by 22%
-- Built a Google Sheets dashboard that consolidated sales data from five sources, saving 5 hrs/week of manual reporting
-- Assisted in coordinating a product launch event attended by 200+ customers
+**Server-Skybox Taphouse**
 
-**Administrative Assistant** | UH Shidler College of Business | Sep 2024 – Present
-- Manage scheduling and logistics for a department of 12 faculty members
-- Maintained departmental records and updated the office SharePoint site, reducing misfiled documents by 30%
+**Aug 2024- Oct 2025**
+
+* Executed service in a high-volume restaurant environment using Toast POS
+* Developed efficiency in managing real-time transactions and multitasking under pressure
+* Troubleshot POS and connectivity issues to maintain smooth service operations
+
+**Server-Edgewater Grill & Bar**
+
+**May 2024-Aug 2024**
+
+* Delivered high-quality service in a fast-paced, high-volume environment
+* Managed multiple tasks while maintaining efficiency and customer satisfaction
+* Strengthened communication and problem-solving skills in dynamic settings
+
+**Server-Rock-A Hula Luau**
+
+**Aug 2023-May 2024**
+
+* Provided service in large-scale event settings with diverse clientele
+* Adapted quickly to changing environments and guest needs
+
+**Women’s Self-Defense Instructor - Play it Safe Women’s Self-Defense**
+
+**Oct 2021-July 2023**
+
+* Instructed individuals in safety techniques, building confidence and awareness
+* Developed leadership and public speaking skills through group instruction
+
+**Social Media Manager (Remote) - Reality Break Escapes**
+
+**Aug 2021-May 2022**
+
+* Managed content across multiple platforms to increase audience engagement
+* Developed content strategies based on user interaction and trends
+* Designed digital content using Canva to enhance brand visibility
+
 
 ---
 
-## Leadership & Activities
+## Project Experience
 
-**Treasurer** | UH Business Club | Jan 2024 – Present
-- Oversee a $4,200 annual budget; reduced operating expenses by 15% through vendor renegotiation
-- Prepare monthly financial summaries presented to a board of 8 officers
+**Web Application Development Project (ITM 352)**
 
-**Peer Mentor** | Shidler First-Year Experience Program | Aug 2023 – May 2024
-- Advised 10 first-year students on course selection, academic resources, and career planning
+* Developed a Python/Flask web app connecting Hawaiian farmers with consumers using a user-friendly HTML interface.
+* Optimized application performance through iterative testing, debugging, and data-driven accessibility enhancements.
+
+**Data Analysis & Financial Modeling Project (ICS 101)**
+
+* Developed a multi-sheet financial model using VLOOKUP, PivotTables, and IF logic to drive data-driven decision-making.
+* Built automated tools and visualizations, including amortization schedules (PMT/IPMT) and trend charts, to ensure data accuracy and clarity.
+
 
 ---
 
-## Skills
+## Technical Skills
 
-| Category | Tools / Technologies |
-|---|---|
-| Data & Analytics | SQL, Excel (pivot tables, VLOOKUP), Tableau, Google Sheets |
-| Programming | Python (pandas, matplotlib) — intermediate |
-| Business Software | Salesforce CRM, HubSpot, SharePoint, Mailchimp |
-| Productivity | Notion, Slack, Microsoft 365, Google Workspace |
-| Languages | English (native), Japanese (conversational) |
+* Python (functions, loops, conditionals)
+* Flask (web application development)
+* HTML/CSS (web design and structure)
+* Data Analysis & Visualization (Pandas, Excel)
+* Microsoft Excel (PivotTables, VLOOKUP, financial modeling)
+* Github (version control)
+* VS Code & Command Line (zsh)
 
 ---
 
