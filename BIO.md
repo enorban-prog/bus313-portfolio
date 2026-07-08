@@ -1,9 +1,10 @@
 # Professional Bio
 
-I am a Business Administration student at the University of Hawaiʻi, concentrating in Management Information Systems with a minor in Entrepreneurship. Currently in my junior year, I bring hands-on experience in data analysis, project coordination, and digital marketing gained through internships and campus leadership roles.
+I am an undergraduate Business Administration student at the University of Hawaiʻi at Mānoa entering my senior year, where I am concurrently starting my first year of a Master of Science in Information Systems (MSIS). Specializing in Management Information Systems (MIS), my background bridges the gap between high-pressure hospitality operations, instructional leadership, and technical application development.
 
-My academic background spans financial modeling, operations management, and technology-driven business strategy. Outside the classroom, I have served as treasurer of the UH Business Club, where I led budgeting initiatives that reduced overhead costs by 15% over two semesters. I also volunteer as a mentor in the Shidler College peer-advising program, guiding first-year students through course planning and career development.
+My academic and project portfolio includes developing a Python and Flask-based web application tailored to link local Hawaiian farmers directly with consumers, as well as engineering automated multi-sheet financial models in Microsoft Excel utilizing complex VLOOKUP and IF logic. Outside of my technical projects, I have built strong foundational skills in digital marketing as a remote Social Media Manager for Reality Break Escapes—where I designed brand content using Canva—and honed public speaking and group instruction dynamics as a Women's Self-Defense Instructor.
 
-I am driven by the intersection of business and technology — specifically how data-informed decisions create measurable organizational impact. After graduation, I plan to pursue a career in business analytics or product management, with a long-term goal of attending a top MBA program. I am actively building skills in SQL, Python, and Tableau to complement my business foundation and position myself for roles that require both analytical rigor and strategic thinking.
+I am deeply driven by the intersection of business strategy and technology, specifically how clean data and optimized systems create immediate organizational value. Following graduation, I plan to leverage my combined bachelor's and master's degrees to pursue high-impact career tracks in business analytics, systems design, or technical product management. I am actively refining my competencies in Python, Pandas, HTML/CSS, and version control via GitHub to graduate ready for complex technical ecosystems.
 
-_Drafted with help from Claude (Anthropic, 2026); reviewed and edited by me._
+Drafted with help from Gemini (Google, 2026); reviewed and edited by me.
+
